@@ -1,12 +1,9 @@
 # The URL the site will be built for
-base_url = "https://log.rjyoung.ca"
-
-# Use the Tale-Zola theme
-theme = "tale-zola"
+base_url = "https://tale-zola.netlify.app"
 
 # The basic information about the site
-title = "log"
-description = "Where does this show up?"
+title = "Tala-Zola"
+description = "Tala-Zola is a minimal Zola theme helping you to build a light blog, and you can customise any information of the blog without having to modify the codes of the template."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -35,9 +32,9 @@ highlight_theme = "base16-ocean-light"
 
 [extra]
 # Basic infomation
-author = "Rob Young"
-github = "https://github.com/bobbotron"
-email  = "bobbotron+nospam@gmail.com"
+author = "Aaran Xu"
+github = "https://github.com/aaranxu"
+email  = "aaranxu@outlook.com"
 
 # Set date format in the site
 timeformat = "%B %e, %Y" # e.g. June 14, 2021
@@ -94,8 +91,8 @@ name = "About"
 url = "about"
 
 [extra.footer]
-start_year = "2024"  # start year of the site
-end_year = "2024"    # end year of the site
+start_year = "2020"  # start year of the site
+end_year = "2021"    # end year of the site
 info = "Made with <a href=\"https://www.getzola.org\">Zola</a> with <a href=\"https://github.com/aaranxu/tale-zola\">Tala-Zola</a> theme."
 
 

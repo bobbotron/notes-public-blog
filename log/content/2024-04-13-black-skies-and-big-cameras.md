@@ -19,6 +19,8 @@ the Adirondacks on 4x5 cameras". This ticked a lot of adventure criteria boxes
 at once, great hiking, film cameras, a once in a life time view, time away from
 the computer, it was an easy decision.
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/53654344431/in/album-72177720316231119/" title="Untitled"><img src="https://live.staticflickr.com/65535/53654344431_1ac2e78268.jpg" width="500" height="333" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 We got to planning; our goal was to view the eclipse from the North end of
 [Avalanche lake](https://www.lakeplacid.com/do/hiking/avalanche-lake). Situated
 between the shear rock walls of Mountain Colden and Avalanche Mountain, the lake
@@ -135,7 +137,7 @@ took some photos while the cold wind whipped up the lake. We met youtuber
 [Backpacking and Bacon](https://www.youtube.com/@Bacon_N_Backpacking/videos),
 maybe we'll show up on his video feed some day? 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/53650707127/in/album-72177720316231119/" title="Avalanche lake"><img src="https://live.staticflickr.com/65535/53650707127_8320c2163d.jpg" width="500" height="172" alt="Avalanche lake"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/53654562831/in/dateposted/" title="Avalanche lake"><img src="https://live.staticflickr.com/65535/53654562831_1f7f66aebe_w.jpg" width="267" height="400" alt="Avalanche lake"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The lake looked like it wasn't going to be as good for the eclipse as thought,
 too wide, too cold, lots of shadows, unhappy hill access; we decided Marcy was

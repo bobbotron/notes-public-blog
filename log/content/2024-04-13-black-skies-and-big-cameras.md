@@ -255,6 +255,8 @@ I think we were actually pretty well prepared overall.
 There's always something you bring you don't end up using. 
 
 * Crampons: I bought some nice crampons that stayed in the truck.
+* Peak design camera clip: in pack mule mode, having the K3 swinging off my
+  shoulder was uncomfortable, ended up not using this.
 
 # Flickr album
 

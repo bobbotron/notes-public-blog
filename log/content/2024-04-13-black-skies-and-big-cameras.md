@@ -5,7 +5,7 @@ date = 2024-04-13T15:57:00-05:00
 
 [taxonomies] 
 
-tags = ["Draft", "Photography", "Trip Report", "Hiking"]
+tags = ["Photography", "Trip Report", "Hiking"]
 
 [extra]
 

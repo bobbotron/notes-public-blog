@@ -53,6 +53,11 @@
   			<span>{{ config.extra.expressions.written_by | default(value="Written by") }}</span> {{ config.extra.author }}<br>
   		{%- endif %}
   		<span>{{ config.extra.expressions.on | default(value="on")}}&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date(format=config.extra.timeformat | default(value="%B %e, %Y"))}}</time>
+		{%if page.extra.background_media -%}
+			<span> 
+				while listening to <a href="{{ page.extra.background_media }}">🎶</a>
+			</span>
+		{%- endif %}
   	</div>
   	<h1 class="post-title">{{ page.title }}</h1>
   	<div class="post-line"></div>

@@ -21,6 +21,8 @@ locations. You don’t need much to get started and can create a lot of modifier
 with some arts and crafts tools. The basic idea is to create a scene and modify
 the light with flashlights, flash, or other light sources.
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/50820641248/in/album-72157713278175527" title="Fire guy"><img src="https://live.staticflickr.com/65535/50820641248_abf0488763_c.jpg" width="800" height="800" alt="Fire guy"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Gear
 
 ### Required
@@ -40,9 +42,9 @@ the light with flashlights, flash, or other light sources.
 - **Steel wool** (CAREFUL, needs common sense, care + a buddy to help watch for
   fire, a lot of photographers have set things on fire doing steel wool photos)
 
-## Ideal Conditions
+## Ideal Scene Conditions
 
-Light painting is a night time or (very) dark room activity. The less ambient
+Light painting is ideally a night time or (very) dark room activity. The less ambient
 light (street lights, full moon, etc) the easier your job will be, however
 ambient lighting can also add an interesting dimension to your photo. When first
 practicing light painting, going somewhere very dark is helpful so you’re not
@@ -77,7 +79,8 @@ setting (score one for Pentax!) Often by default you need to hold down the
 shutter for the shutter to stay open, but there are usually ways to change this
 so you press the button once for shutter open, second press for shutter close.
 
-**Don’t use any auto mode, and turn off your built-in on camera flash!**
+**When starting your shot, don’t use any auto focus mode, and turn off your
+built-in on camera flash!**
 
 That said, if you don’t have access to this kind of bulb mode, manual mode with
 a 30 second exposure is great.
@@ -122,8 +125,10 @@ Use the flashlight to light up otherwise dark objects. This might take a few tri
 
 - Play with angles of light
 - Cause/avoid hot spots by getting closer or farther away
-- Use photo gels to create custom light
-- You can move around to soften light
+- Use photo gels to create custom light colours
+- You can move around to soften light on objects
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/50983664113/in/album-72157713278175527" title="Found Overly Rusty, Dead"><img src="https://live.staticflickr.com/65535/50983664113_3a1b2aecae_c.jpg" width="800" height="500" alt="Found Overly Rusty, Dead"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Creating Light Objects
 
@@ -161,7 +166,7 @@ Below is an example of setting up a shot from start to finish.
 4. Do some test shots. This involved painting the bushes with a flashlight with a blue bulb, and then using a homemade light brush for the main light swirl. I had to play around a bit with my light brightness to figure out good settings and how long to light the bushes
 5. Adjusted my aperture to f9
 6. Main shot!
-7. Adjusted levels in Lightroom, darkening the upper section to black and adjusting light levels.
+7. Adjusted levels in Lightroom, darkening the upper section to black and adjusting light levels
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/51244979220/in/album-72157713278175527" title="Untitled"><img src="https://live.staticflickr.com/65535/51244979220_9413b2253c_c.jpg" width="800" height="450" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -176,7 +181,7 @@ unique and often one will stand out!
 ## How Did It Go?
 
 Questions? Want to share some cool shots? You can contact me via one of the
-social links on [my website](https://rjyoung.ca)
+social links on [my website](https://rjyoung.ca).
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/50796734231/in/album-72157713278175527" title="The Ghost of the Marlborough Forest?"><img src="https://live.staticflickr.com/65535/50796734231_7b2505629e_c.jpg" width="800" height="800" alt="The Ghost of the Marlborough Forest?"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

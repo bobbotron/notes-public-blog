@@ -24,11 +24,13 @@ the light with flashlights, flash, or other light sources.
 ## Gear
 
 ### Required
+
 - **Camera** – pretty much any camera with a manual or shutter priority mode will work!
 - **Tripod**
 - **Flashlight** – Any will do, a bright flashlight (500 lumens+) lets you run lower ISO and gives you more options, but really you can do this with anything, even a pen light!
 
 ### Optional Good Stuff
+
 - **Dark clothing!** Jeans and a black matte hoodie are great, you’re way less likely to show up as an artifact in photos wearing dark clothing
 - **Light modifiers, DIY or commercial** (more below)
 - **Sparklers**
@@ -83,6 +85,7 @@ a 30 second exposure is great.
 ## Initial Camera Settings
 
 Start with the following settings:
+
 - **Bulb Mode**
 - **Self timer (3 or 12 seconds)** – this helps with any initial camera shake and generally slows things down, gives you more time to think
 - **100 ISO**
@@ -91,16 +94,20 @@ Start with the following settings:
 You can then adjust the settings up or down after taking some practice images.
 
 ### Image too dark?
+
 Try one or more of the following:
+
 - Increase camera ISO (200, 400, etc)
 - Lower f-stop (f4, f2)
 - Move light slower. By applying more light you can increase brightness
 - If light is adjustable, dial up the intensity
 
-*Note: if you increase your ISO or lower your f-stop, your camera will more quickly pull in ambient light! This can be a challenge on a full moon or street scene. One way to get around this is to take shorter exposures and stack them in a photo editor afterwards. The “lighten” layer mode of Photoshop is great for this.*
+_Note: if you increase your ISO or lower your f-stop, your camera will more quickly pull in ambient light! This can be a challenge on a full moon or street scene. One way to get around this is to take shorter exposures and stack them in a photo editor afterwards. The “lighten” layer mode of Photoshop is great for this._
 
 ### Image too bright?
+
 Try one or more of the following:
+
 - Increase f-stop (f11, f16)
 - Move light faster
 - If light is adjustable, dial down the intensity
@@ -110,7 +117,9 @@ Try one or more of the following:
 There are two main ways to light paint, either illuminating your subject with light, or using the light to draw objects in the air.
 
 ### Illuminating a Scene/Object
+
 Use the flashlight to light up otherwise dark objects. This might take a few tries to find the right amount of light to apply to the object.
+
 - Play with angles of light
 - Cause/avoid hot spots by getting closer or farther away
 - Use photo gels to create custom light
@@ -121,16 +130,19 @@ Use the flashlight to light up otherwise dark objects. This might take a few tri
 The sky's the limit! Here are some ideas to start.
 
 ### Freehand Light Drawing
+
 Simplest technique, and powerful! Move your flashlight / LED bar / EL wire / sparkler through the air to draw shapes, or write words.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/49410264626/in/album-72157713278175527" title="Silly photo for photo club"><img src="https://live.staticflickr.com/65535/49410264626_1490d1165d_c.jpg" width="800" height="800" alt="2020 light painting"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Light Orb
+
 You can do this with any kind of light. LED bars or sparklers are good candidates to learn with.
 
 [Watch Tutorial on YouTube](https://www.youtube.com/watch?v=sI8WzSaijCw)
 
 ### Light Painting Brushes Tutorials
+
 The company Light Painting Brushes maintains an incredible list of tutorials on light painting. Some require light modifiers, but many can be done with a flashlight or light bar.
 
 [Visit Light Painting Brushes Tutorials](https://lightpaintingbrushes.com/pages/light-painting-tutorials)
@@ -142,6 +154,7 @@ This is anything that modifies the shape of your light. These can be home-made o
 ## Example of the Process
 
 Below is an example of setting up a shot from start to finish.
+
 1. Set up camera on a tripod and conceptualize the shot
 2. Set the focus. In this case, I manually focused to about 6 feet away
 3. Set camera to bulb mode, ISO 100 f8
@@ -172,6 +185,9 @@ social links on [my website](https://rjyoung.ca)
 I have an album of my [light painting here](https://www.flickr.com/photos/bobbotron/albums/72157713278175527/).
 
 [Electrical Movements in the Dark](https://www.electricalmovements.de/). These folks do great work.
+
+[Light painting bushes tutorials](https://lightpaintingbrushes.com/pages/light-painting-tutorials).
+An incredible resource.
 
 # Attribution Note
 

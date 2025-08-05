@@ -1,7 +1,7 @@
 +++
 
 title = "Light Painting Tutorial"
-date = 2026-01-06
+date = 2025-01-06
 
 [taxonomies] 
 

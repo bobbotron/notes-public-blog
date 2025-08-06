@@ -22,24 +22,41 @@ many random quirks to see along the way.
 
 Anyway, here are some photos.
 
-I really dig how the varied the trails are. At times they turn into mild tracks through a fallow field. What's even going on here?
+## Biking in the tall grass
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/54700527851/in/photolist-2pYW6oj-2pYXjWm-2pYYkiU-2pYYkm9-2qCXnfW-2qD2ZGz-2qD31qd-2qD4cdw-2qD4dDs-2qD59oc-2rcgwRW-2rcgx2f-2rcgxbo-2rchBgN-2rchBrH-2rci5Xw-2rkGvca-2rkHxLZ-2rkHxY2-2rkHyjx-2rkHF38-2rkHF6e-2rkHGyz-2rkJboo-2rkJbWc-2iuzuJR-2iuzxBK-2iwucb4-2koJxmB-2pbie8K-2pbien2-2pbiyRo-2pbjaYd/" title="Untitled"><img src="https://live.staticflickr.com/65535/54700527851_d1839b881c_c.jpg" width="533" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
- 
-My Sigma Foveon sensor'd camera really didn't cooperate with this photo, so washed out. It's super dry out now but still feels a bit weird, oh well.
 
-This part of the trail is some of my favourite, it has a great flow & vibe to it. It keeps changing and is super visually interesting. Also note the "Staging Area C" sign. I feel like things are going south if you're staging an emergency out here.
+I really dig how the varied the trails are. At times they turn into mild tracks through a fallow field. What's even going on here?
+
+## A cool s curve trail w/ a uncooperative camera
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/54700731653/in/photolist-2pYW6oj-2pYXjWm-2pYYkiU-2pYYkm9-2qCXnfW-2qD2ZGz-2qD31qd-2qD4cdw-2qD4dDs-2qD59oc-2rcgwRW-2rcgx2f-2rcgxbo-2rchBgN-2rchBrH-2rci5Xw-2rkGvca-2rkHxLZ-2rkHxY2-2rkHyjx-2rkHF38-2rkHF6e-2rkHGyz-2rkJboo-2rkJbWc-2iuzuJR-2iuzxBK-2iwucb4-2koJxmB-2pbie8K-2pbien2-2pbiyRo-2pbjaYd/" title="Untitled"><img src="https://live.staticflickr.com/65535/54700731653_1440b6afd0_c.jpg" width="533" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The Sigma was doing it's job here, feel like I captured a little of the beauty of the place here.
+I know a poor carpenter blames his hammer but my Sigma Foveon sensor'd camera really didn't cooperate with this photo, so washed out. It's super dry out now but still feels a bit weird, oh well.
+
+This part of the trail is some of my favourite, it has a great flow & vibe to it. It keeps changing and is super visually interesting. Also note the "Staging Area C" sign. I feel like things are going south if you're staging an emergency out here.
+
+## More curvy trails
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/54700756079/in/photolist-2pYW6oj-2pYXjWm-2pYYkiU-2pYYkm9-2qCXnfW-2qD2ZGz-2qD31qd-2qD4cdw-2qD4dDs-2qD59oc-2rcgwRW-2rcgx2f-2rcgxbo-2rchBgN-2rchBrH-2rci5Xw-2rkGvca-2rkHxLZ-2rkHxY2-2rkHyjx-2rkHF38-2rkHF6e-2rkHGyz-2rkJboo-2rkJbWc-2iuzuJR-2iuzxBK-2iwucb4-2koJxmB-2pbie8K-2pbien2-2pbiyRo-2pbjaYd" title="Untitled"><img src="https://live.staticflickr.com/65535/54700756079_b68d441739_c.jpg" width="533" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-It's super old and dated at this point but this aluminum 29er works so damn well in the Marlborough, love it. I should really try my voodoo Dambala out here some day...
+The Sigma was doing it's job here, feel like I captured a little of the beauty of the place here.
+
+## Old bike's still kicking
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/54700733483/in/photolist-2pYW6oj-2pYXjWm-2pYYkiU-2pYYkm9-2qCXnfW-2qD2ZGz-2qD31qd-2qD4cdw-2qD4dDs-2qD59oc-2rcgwRW-2rcgx2f-2rcgxbo-2rchBgN-2rchBrH-2rci5Xw-2rkGvca-2rkHxLZ-2rkHxY2-2rkHyjx-2rkHF38-2rkHF6e-2rkHGyz-2rkJboo-2rkJbWc-2iuzuJR-2iuzxBK-2iwucb4-2koJxmB-2pbie8K-2pbien2-2pbiyRo-2pbjaYd/" title="Untitled"><img src="https://live.staticflickr.com/65535/54700733483_d90d919607_c.jpg" width="800" height="533" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Never know what you'll see out in the Marlborough. Found this in the middle of
-nowhere. <a data-flickr-embed="true"
+My soul cycles is old and dated at this point but this aluminum 29er works so damn well in the Marlborough, love it. I should really try my voodoo Dambala out here some day...
+
+## Never know what you'll find...
+<a data-flickr-embed="true"
 href="https://www.flickr.com/photos/bobbotron/54700756259/in/photolist-2pYW6oj-2pYXjWm-2pYYkiU-2pYYkm9-2qCXnfW-2qD2ZGz-2qD31qd-2qD4cdw-2qD4dDs-2qD59oc-2rcgwRW-2rcgx2f-2rcgxbo-2rchBgN-2rchBrH-2rci5Xw-2rkGvca-2rkHxLZ-2rkHxY2-2rkHyjx-2rkHF38-2rkHF6e-2rkHGyz-2rkJboo-2rkJbWc-2iuzuJR-2iuzxBK-2iwucb4-2koJxmB-2pbie8K-2pbien2-2pbiyRo-2pbjaYd/"
 title="Untitled"><img
 src="https://live.staticflickr.com/65535/54700756259_c5501e3538_c.jpg"
 width="533" height="800" alt="Untitled"/></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/54700732293/in/dateposted/" title="Untitled"><img src="https://live.staticflickr.com/65535/54700732293_a4d86f0192_b.jpg" width="683" height="1024" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Never know what you'll see out in the Marlborough. Found this in the middle of
+nowhere. 
+
+## Fork in the trail
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/54701842332/in/dateposted/" title="Fork in the trail"><img src="https://live.staticflickr.com/65535/54701842332_9c1ccf1a1d_c.jpg" width="800" height="347" alt="Fork in the trail"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Gotta get back here with a wide angle film camera!

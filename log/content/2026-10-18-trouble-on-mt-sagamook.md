@@ -40,32 +40,43 @@ forecast for Friday morning was grey, with projections for rain starting around
 1pm. Lots of time to get up and down the mountain as packing up a campervan is
 incredibly fast, and it would be a quick 20 minute drive to the trailhead.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/55597152017/in/dateposted/" title="Untitled"><img src="https://live.staticflickr.com/65535/55597152017_ce9998b266_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"
+href="https://www.flickr.com/photos/bobbotron/55597152017/in/dateposted/"
+title="Untitled"><img
+src="https://live.staticflickr.com/65535/55597152017_ce9998b266_c.jpg"
+width="800" height="600" alt="Untitled"/></a><script async
+src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## It all started well
 
 We caffinated and prepped, packing pretty light for the hike, hitting the trail
-in good time. Mt Sagamook has a steaper side and a more gentle side, the general
+in good time. Mt Sagamook has a steaper side and a more gentle side. The general
 recommendation is to hike up the steap trail and then come down the easier
 decsent. It was challenging hiking, offering challenging rocky paths, steep
-inclines. Beautiful forest, but real care needs to be taken. We were trying to
-keep a brisk pace in the cold, damp early morning. 2/3s of the way up, a very
-light snow started to fall. Not ideal but we were so close to the top, we
-thought it would be better to sumit and come down the other half of the trail.
-We caffinated and prepped, packing pretty light for the hike, hitting the trail
-in good time. Mt Sagamook has a steaper side and a more gentle side, the general
-recommendation is to hike up the steap trail and then come down the easier
-decsent. It was challenging hiking, offering challenging rocky paths, steep
-inclines. Beautiful forest, but real care needs to be taken. We were trying to
-keep a brisk pace in the cold, damp early morning. 2/3s of the way up, a very
-light snow started to fall. Not ideal but we were so close to the top, we
+inclines. Beautiful forest, but real care needs to be taken on the trail. We
+were trying to keep a brisk pace in the cold, damp early morning. 2/3s of the
+way up, a very light snow started to fall. Not ideal but we were so close to the
+top, we thought it would be better to sumit and come down the other half of the
+trail. We caffinated and prepped, packing pretty light for the hike, hitting the
+trail in good time. Mt Sagamook has a steaper side and a more gentle side, the
+general recommendation is to hike up the steap trail and then come down the
+easier decsent. It was challenging hiking, offering challenging rocky paths,
+steep inclines. Beautiful forest, but real care needs to be taken. We were
+trying to keep a brisk pace in the cold, damp early morning. 2/3s of the way up,
+a very light snow started to fall. Not ideal but we were so close to the top, we
 thought it would be better to sumit and come down the other half of the trail.
 
 Nearing the summit the terrain gets even more challenging, with large boulders
 to wind your way up. Even our dogs, aussie shepherds who are possibly part
 mountain goat, needed some help for some of it! Around this time it started to
 seriously snow - our mood was shifting to unease, this was quickly turning into
-a bad situation.
+a bad situation. We were quite aware of the risk at this point, an injury on the
+trail would be quite serious. There was cell reception near the top, but after
+about 1/2 way down I only had access to the
+[spotty iPhone satellite services](https://support.apple.com/en-ca/120930).
+
+What normally would have been an amazing panoramic view was a strange sea of
+white below.
 
 <a data-flickr-embed="true"
 href="https://www.flickr.com/photos/bobbotron/55598574850/in/dateposted/"
@@ -78,13 +89,13 @@ charset="utf-8"></script>
 ## Dude, where's my keys
 
 It was around then when I put a layer back on, and some primal part of my brain
-fired a dire alert - <span style="color: red;">your keys are not in your
-pocket</span>. After an extensive search of my pockets, hoodie, camera bag,
-indeed, the keys had fallen out somewhere on the mountain! This was a huge
+fired a dire alert - <span style="color: red;">**DANGER, your keys are not in
+your pocket**</span>. After an extensive search of my pockets, hoodie, camera
+bag, indeed, the keys had fallen out somewhere on the mountain! This was a huge
 problem, the rental doesn't come with a second set, and the weather was turning
 quickly. Mt Carleton is quite remote - we had about 1 day of food for us and a
 little less for the dogs. We could stay the night, but the logistics of our
-situation were going to become very bad quickly.
+situation were going to become very bad, very quickly.
 
 We decended the same way we came up, looking for the keys as we went. The snow
 was accumulating. Getting to the car, we went back up a half of the hike again,
@@ -101,46 +112,54 @@ Waterlogged, a bit frozen and quite possibly a little at shock at this point, I
 got a coffee and started to make calls. It turns out the automotive industry has
 been taking the problem of auto theft a little too serious, getting a new key
 for a modern vehicle is difficult. The best the company could do was send the
-key by courier, and it would arrive in 2 to 3 *business days*. Given this was on
-a Friday, that meant the very real possibility of us being stuck there until the
-following Wednesday. I generally internalize my stress, but at this point it's
-fair to say cognition was deteriorating. The number of problem scenarios was
-high, and we only had one happy path out - *find the damn keys ASAP*.
+key by courier, and it would arrive in 2 to 3 **business days**. W. T. actual.
+F.
+
+Given this was on a Friday, that meant the very real possibility of us being
+stuck there until the following Wednesday. I generally internalize my stress,
+but at this point it's fair to say cognition was not optimal. The number of
+problem scenarios was high, and we only had one happy path out - **find the damn
+keys and get gone**.
 
 ## Camp Nictau
 
 While I was trying to arrange a key delivery with the rental company, a security
 guard came but sadly was in a hurry. They were supposed to give me a ride back,
-but they seemed to be in a hurry, and priority one was sorting out the key
-situation.
+but they seemed to be in a hurry. They left me there while I continued to sort
+out the key situation. Grr.
 
-Getting the depressing plan of a Wednesday key delivery in place, I had our
+Getting the despiriting plan of a Wednesday key delivery in place, I had our
 first stroke of good luck, there was a small campground near the Mt Sagamook
-trailhead, with a open cabin for rent. While the campervan could easily weather
+trailhead, with a open cabin for rent! While the campervan could easily weather
 the storm that was rolling through, it had limited battery power for it's
-heater, and I thought the cabin would feel a little less doomed than staying in
+gas heater, and I thought the cabin would feel a little less doomed than staying in
 a dead campervan.
 
-None of this felt like the best plan, but sometimes you have to push forward
-with shaky ground and see how things settle out.
+None of this felt like a great plan, but sometimes you have to push forward with
+shaky ground and see how things settle out.
 
-Around the point when I was about to gloom hike back to the camper van, an
-absolute saint of a maintance worker struck up a conversation with me. He drove
-me back, helped us get our bedding down to the cabin, helped me get wood, start
-a fire, showed me around. Absolute hero. The company and help was truly
+Around the point when I was about to gloom / grumpy hike back to the camper van on shaky legs,
+an absolute saint of a maintance worker struck up a conversation with me. He
+drove me back, helped us get our bedding down to the cabin, helped me get wood,
+start a fire, showed me around. Absolute hero. His company and help was truly
 wonderful, good people exist in this world. If you ever read this good sir,
-thank you so much! I wish you good luck repairing cabins in the park!
+thank you so much! I wish you good luck repairing cabins in the park! Seriously,
+thank you.
 
 ## The storm that befell the Pine Cabin
 
 We stayed at the inventively named "Pine cabin" (I'm not making this up). It was
 about a 12x12 pioneer log cabin, big enough for a table, bed, and a wood stove.
 It did the trick for the night as an absolutely wild wind and rain storm whipped
-through. Occasionally the cabin would make a log structure noise, or something
+through. Occasionally the cabin would make a log structure noises, or something
 would bump into it. We had a fresh supply of low quality pine lumber to burn. I
 turned the place into a sauna for a while, and then we learned our lesson and
 passed out, with the plan: we were hiking back up that hill and **finding those
 keys**.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/55598297313/in/dateposted/" title="Untitled"><img src="https://live.staticflickr.com/65535/55598297313_05bfafa7a9_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/55598176206/in/photostream/" title="Untitled"><img src="https://live.staticflickr.com/65535/55598176206_93b5c35d9e_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## SUCCESS
 
@@ -157,7 +176,20 @@ H ended up finding the keys 1/3 of the way up. The dogs had started to play with
 a stick on top of them, directing her focus to the area they had fallen. We
 shouted woo so much Reggie joined in with a celebratory howl. **HECK YEAH**.
 
-Anyway, that's my story, I hoped you liked it. I'm so glad we didn't get hurt
-on the mountain, and didn't get stranded out there.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/55597157542/in/dateposted/" title="Untitled"><img src="https://live.staticflickr.com/65535/55597157542_5d3749d231_c.jpg" width="600" height="800" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Moral of the story, put your keys in a zipped pocket. Gooooood grief.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/55597157567/in/photostream/" title="Untitled"><img src="https://live.staticflickr.com/65535/55597157567_76937a7193_c.jpg" width="800" height="600" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Anyway, that's my story, I hoped you liked it. I'm so glad we didn't get hurt on
+the mountain, and didn't get stranded out there.
+
+## What went well
+
+ * no one got hurt on the mountain
+ * we found the keys
+ * my high cut boots were fantastic on the trail - avoided a number of abbrasion injuiries and slips
+
+## What could be better
+
+ * losing the keys feels pretty sloppy, won't do that again. Gooooood grief.
+ * Karma campervan backup plans for key replacement were pretty poor.

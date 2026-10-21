@@ -65,6 +65,9 @@ src="https://live.staticflickr.com/65535/55597152852_c4de862101_c.jpg"
 width="600" height="800" alt="Untitled"/></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/55603438773/in/dateposted/" 
+   title="Untitled"><img src="https://live.staticflickr.com/65535/55603438773_3c5e2d232d_c.jpg" width="800" height="640" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## It all started well
 
 We caffinated and prepped, packing pretty light for the hike, hitting the trail

@@ -92,13 +92,7 @@ about 1/2 way down I only had access to the
 The trees thinned out, what normally would have been an amazing panoramic view
 was a strange sea of white below. Mental alarm bells were ringing quietly.
 
-<a data-flickr-embed="true"
-href="https://www.flickr.com/photos/bobbotron/55598574850/in/dateposted/"
-title="The &quot;view&quot; from Mt Sagamook"><img
-src="https://live.staticflickr.com/65535/55598574850_af40028452_c.jpg"
-width="800" height="600" alt="The &quot;view&quot; from Mt
-Sagamook"/></a><script async src="//embedr.flickr.com/assets/client-code.js"
-charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/" title="The &quot;view&quot; from Mt Sagamook"><img src="https://live.staticflickr.com/65535/55603645178_e62b05fcd1_c.jpg" width="800" height="600" alt="The &quot;view&quot; from Mt Sagamook"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"
 href="https://www.flickr.com/photos/bobbotron/55598577279/in/photostream/"

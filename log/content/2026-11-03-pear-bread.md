@@ -28,6 +28,10 @@ background_media = "https://open.spotify.com/track/4bd9eyFswJT4J3bPLz5oM4?si=2c1
  - 1/2 cup diced pecans
  - 2 to 3 tbsp ginger
 
-Preheat oven to 350F. Mix the dry ingredients, then the wet. Cooking time depends on the pan, 45 minutes?
+Preheat oven to 350F. Mix the dry ingredients, then the wet. I mix a bit of brown sugar and extra diced pecans and sprinkle onto the top.
+
+Cooking time depends on the pan, 45 minutes?
 
 Delicious!
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bobbotron/55631435110/in/dateposted/" title="Pear bread"><img src="https://live.staticflickr.com/65535/55631435110_b992e5f87a_c.jpg" width="800" height="423" alt="Pear bread"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

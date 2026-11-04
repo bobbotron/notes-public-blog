@@ -23,6 +23,7 @@ background_media = "https://open.spotify.com/track/4bd9eyFswJT4J3bPLz5oM4?si=2c1
  - 1/2 cup sugar (I mix white and brown)
  - 3/4 oat milk
  - 1/3 cup oil
+ - 1/2 tsp of vanilla, or more to taste
  - 1 large egg
  - 1 pear, cubed
  - 1/2 cup diced pecans
